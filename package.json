@@ -1,0 +1,19 @@
+{
+  "name": "daisyui-custom-palletes",
+  "version": "1.0.0",
+  "description": "Custom Palletes made by Makuguren",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makuguren/DaisyUI-Custom-Palletes.git"
+  },
+  "author": "makuguren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makuguren/DaisyUI-Custom-Palletes/issues"
+  },
+  "homepage": "https://github.com/makuguren/DaisyUI-Custom-Palletes#readme"
+}
